@@ -3,9 +3,13 @@ Performed clustering on FIFA 20 Dataset to identify lucrative and promising play
 
 Input:
 1. Features used to cluster players:
+
   i. Player Age
+  
   ii. Player Overall Rating
+  
 2. Number of Clusters
+
 3. FIFA 20 Complete Dataset (https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset)
 
 Output:
