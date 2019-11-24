@@ -4,9 +4,9 @@ Performed clustering on FIFA 20 Dataset to identify lucrative and promising play
 Input:
 1. Features used to cluster players:
 
-  i. Player Age
+    i. Player Age
   
-  ii. Player Overall Rating
+    ii. Player Overall Rating
   
 2. Number of Clusters
 
