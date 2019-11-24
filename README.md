@@ -15,4 +15,4 @@ Output:
 
 To be Continued...
 
-Future scope includes clustering based on more parameters and an extensive analysis.
+Future scope will cover clustering based on more parameters and an extensive analysis.
