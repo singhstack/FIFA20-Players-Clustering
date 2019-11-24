@@ -12,5 +12,7 @@ Output:
 1. Scatter Plot for Cluster Size k (k=[2,5])
 
 
+
 To be Continued...
+
 Future scope includes clustering based on more parameters and an extensive analysis.
